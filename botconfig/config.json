@@ -1,0 +1,17 @@
+{ 
+  "token": "OTM3NDIzNjg1MTQzMzYzNTg0.Yfbh1w.spxbXkUz9l9CenmsnrfSVLvipS8",
+  "prefix": "?",
+  "ownerid": ["345538444564496384"],
+
+  "check_all_channels_Interval_in_seconds": 10, 
+
+  "joinchannel": "885850927775498254",
+  "leavechannel": "939511817959505920",
+  "joinrole": "886244416476561428",
+
+  "adminroles": ["886245166124531752"],
+  "cmdroles": "970680216789860433"
+
+  
+  
+}
